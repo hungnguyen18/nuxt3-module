@@ -1,0 +1,15 @@
+{
+    "name": "nuxt-app",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "build": "nuxt build",
+        "dev": "nuxi dev",
+        "generate": "nuxt generate",
+        "preview": "nuxt preview",
+        "postinstall": "cross-env NODE_OPTIONS='--no-warnings=ExperimentalWarning' nuxt prepare"
+    },
+    "dependencies": {
+        "nuxt": "latest"
+    }
+}

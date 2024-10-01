@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+::selection {
+    background: var(--p-primary-500);
+    color: #fff;
+}
+::-moz-selection {
+    background: var(--p-primary-500);
+    color: #fff;
+}
+::-webkit-selection {
+    background: rgb(var(--p-primary-500));
+    color: #fff;
+}

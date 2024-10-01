@@ -1,0 +1,15 @@
+node_modules
+*.iml
+.idea
+*.log*
+.nuxt
+playground/.nuxt
+playground/node_modules
+# .vscode
+.DS_Store
+coverage
+dist
+.output
+
+*storybook.log
+pnpm-lock.yaml

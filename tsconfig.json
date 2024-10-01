@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "types": ["vite/client"]
+    },
+    "extends": "./playground/.nuxt/tsconfig.json",
+    "include": ["src", "playground", "build.config.ts"],
+    "exclude": [
+        "./node_modules",
+        "./.nuxt",
+        "./dist",
+        "./.output",
+        "./playground/.nuxt",
+        "./playground/dist",
+        "./playground/.output",
+        "./playground/node_modules",
+        "./playground/assets/presest"
+    ]
+}

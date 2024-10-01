@@ -1,0 +1,127 @@
+---
+kind: pipeline
+type: docker
+name: integration
+
+workspace:
+    base: /drone
+    path: /drone/src
+
+steps:
+    - name: build
+      image: mhealthvn/node-builder:master
+      pull: if-not-exists
+      volumes:
+          - name: dockersock
+            path: /var/run/docker.sock
+      environment:
+          GIT_TOKEN: ${GIT_TOKEN}
+          DOCKER_USERNAME:
+              from_secret: DOCKER_USERNAME
+          DOCKER_PASSWORD:
+              from_secret: DOCKER_PASSWORD
+      commands:
+          - git checkout -b ${DRONE_SOURCE_BRANCH}
+          - git merge main
+          - pnpm install
+          - pnpm test:prepare
+
+    - name: test
+      image: mhealthvn/node-tester:master
+      pull: if-not-exists
+      volumes:
+          - name: dockersock
+            path: /var/run/docker.sock
+      environment:
+          GIT_TOKEN: ${GIT_TOKEN}
+          DOCKER_USERNAME:
+              from_secret: DOCKER_USERNAME
+          DOCKER_PASSWORD:
+              from_secret: DOCKER_PASSWORD
+      commands:
+          - pnpm lint
+          - pnpm test
+          - pnpm dev:build
+
+volumes:
+    - name: dockersock
+      host:
+          path: /var/run/docker.sock
+
+image_pull_secrets:
+    - dockerconfig
+
+trigger:
+    event:
+        - pull_request
+    branch:
+        - main
+
+---
+kind: pipeline
+type: docker
+name: delivery
+
+workspace:
+    base: /drone
+    path: /drone/src
+
+steps:
+    - name: build
+      image: mhealthvn/node-builder:master
+      pull: if-not-exists
+      volumes:
+          - name: dockersock
+            path: /var/run/docker.sock
+      environment:
+          GIT_TOKEN: ${GIT_TOKEN}
+          DOCKER_USERNAME:
+              from_secret: DOCKER_USERNAME
+          DOCKER_PASSWORD:
+              from_secret: DOCKER_PASSWORD
+      commands:
+          - pnpm install
+          - pnpm test:prepare
+
+    - name: test
+      image: mhealthvn/node-tester:master
+      pull: if-not-exists
+      volumes:
+          - name: dockersock
+            path: /var/run/docker.sock
+      environment:
+          GIT_TOKEN: ${GIT_TOKEN}
+          DOCKER_USERNAME:
+              from_secret: DOCKER_USERNAME
+          DOCKER_PASSWORD:
+              from_secret: DOCKER_PASSWORD
+      commands:
+          - pnpm lint
+          - pnpm test
+
+    - name: publish
+      image: mhealthvn/node-builder:master
+      pull: if-not-exists
+      volumes:
+          - name: dockersock
+            path: /var/run/docker.sock
+      environment:
+          GIT_TOKEN: ${GIT_TOKEN}
+      commands:
+          - git branch ${DRONE_SOURCE_BRANCH}
+          - git checkout ${DRONE_SOURCE_BRANCH}
+          - git config --global --add --bool push.autoSetupRemote true
+          - pnpm bump ${DRONE_TAG##v} -c -p
+          - pnpm publish --no-git-checks
+
+volumes:
+    - name: dockersock
+      host:
+          path: /var/run/docker.sock
+
+image_pull_secrets:
+    - dockerconfig
+
+trigger:
+    event:
+        - tag

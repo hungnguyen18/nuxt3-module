@@ -1,0 +1,3541 @@
+[
+  {
+    "object": "block",
+    "id": "5364e926-6816-40e1-8e30-81f60d4c33fc",
+    "parent": {
+      "type": "database_id",
+      "database_id": "4e87316f-4c66-4b80-b97c-1890933a50da"
+    },
+    "created_time": "2024-03-11T09:08:00.000Z",
+    "last_edited_time": "2024-04-03T08:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "d0f098f4-da63-47b4-9be2-18fa2c185e11"
+    },
+    "has_children": true,
+    "archived": false,
+    "type": "child_page",
+    "child_page": {
+      "title": "Điều khoản sử dụng"
+    },
+    "request_id": "31a84a4e-0cec-4d89-a92c-864d51b7a28b"
+  },
+  {
+    "object": "block",
+    "id": "4e87316f-4c66-4b80-b97c-1890933a50da",
+    "parent": {
+      "type": "workspace",
+      "workspace": true
+    },
+    "created_time": "2023-07-24T02:29:00.000Z",
+    "last_edited_time": "2024-04-03T01:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "d0f098f4-da63-47b4-9be2-18fa2c185e11"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "d0f098f4-da63-47b4-9be2-18fa2c185e11"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "child_database",
+    "child_database": {
+      "title": "Website"
+    },
+    "request_id": "547a4c3b-a903-4c0e-9724-fe9df80c257f"
+  },
+  {
+    "object": "block",
+    "id": "5c6da2e0-6b84-4c53-beae-74608fabbc44",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Việc sử dụng Trang.",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Việc sử dụng Trang.",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "263fe0e5-e284-4d88-a935-d762e4fdf7e0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Công ty cổ phần công nghệ mHealth (“mHealth” hoặc “Chúng tôi”) điều hành các trang web với tên miền ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Công ty cổ phần công nghệ mHealth (“mHealth” hoặc “Chúng tôi”) điều hành các trang web với tên miền ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "onemr.net",
+            "link": {
+              "url": "http://onemr.net/"
+            }
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "onemr.net",
+          "href": "http://onemr.net/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ",",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ",",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "wellcare.vn",
+            "link": {
+              "url": "http://wellcare.vn/"
+            }
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "wellcare.vn",
+          "href": "http://wellcare.vn/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ", ",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ", ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "khamtuxa.vn",
+            "link": {
+              "url": "http://khamtuxa.vn/"
+            }
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "khamtuxa.vn",
+          "href": "http://khamtuxa.vn/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " cùng các trang web khác có liên quan, các trang facebook của mHealth và bác sĩ công tác, các ứng dụng chatbot trên facebook messenger của mHealth và bác sĩ cộng tác và các ứng dụng di động chứa các liên kết đến các điều khoản sử dụng này (gọi chung, là “Trang”).  Chúng tôi cung cấp dịch vụ kết nối để thực hiện các cuộc tư vấn sức khỏe từ xa (”Dịch vụ”) từ các chuyên gia y tế, cho phép các người dùng (”Thành viên”, “bạn”, “người dùng”) cập nhật thông tin sức khỏe của họ và tiếp cận các chuyên gia y tế (”Bác sĩ”) để nhận được các dịch vụ tư vấn chăm sóc sức khỏe (”Dịch vụ”). Bằng việc truy cập và sử dụng Trang, bạn đồng ý bị ràng buộc bởi các điều khoản sử dụng này và tất cả các điều khoản và chính sách khác xuất hiện trên Trang. Khi sử dụng Trang có nghĩa là bạn đã chấp thuận tất cả các điều khoản và điều kiện của chúng tôi. Nếu bạn không đồng ý với một hoặc tất cả các điều khoản và điều kiện sử dụng mà chúng tôi đưa ra, xin đừng sử dụng Trang.Chúng tôi có thể sửa đổi và cập nhật các điều khoản và điều kiện bất cứ lúc nào. Việc bạn tiếp tục sử dụng các Trang của mHealth có nghĩa là bạn chấp nhận những thay đổi đó.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " cùng các trang web khác có liên quan, các trang facebook của mHealth và bác sĩ công tác, các ứng dụng chatbot trên facebook messenger của mHealth và bác sĩ cộng tác và các ứng dụng di động chứa các liên kết đến các điều khoản sử dụng này (gọi chung, là “Trang”).  Chúng tôi cung cấp dịch vụ kết nối để thực hiện các cuộc tư vấn sức khỏe từ xa (”Dịch vụ”) từ các chuyên gia y tế, cho phép các người dùng (”Thành viên”, “bạn”, “người dùng”) cập nhật thông tin sức khỏe của họ và tiếp cận các chuyên gia y tế (”Bác sĩ”) để nhận được các dịch vụ tư vấn chăm sóc sức khỏe (”Dịch vụ”). Bằng việc truy cập và sử dụng Trang, bạn đồng ý bị ràng buộc bởi các điều khoản sử dụng này và tất cả các điều khoản và chính sách khác xuất hiện trên Trang. Khi sử dụng Trang có nghĩa là bạn đã chấp thuận tất cả các điều khoản và điều kiện của chúng tôi. Nếu bạn không đồng ý với một hoặc tất cả các điều khoản và điều kiện sử dụng mà chúng tôi đưa ra, xin đừng sử dụng Trang.Chúng tôi có thể sửa đổi và cập nhật các điều khoản và điều kiện bất cứ lúc nào. Việc bạn tiếp tục sử dụng các Trang của mHealth có nghĩa là bạn chấp nhận những thay đổi đó.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "af517473-de99-4c36-a387-b02446b87622",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Các Dịch vụ chăm sóc sức khỏe",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Các Dịch vụ chăm sóc sức khỏe",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "aa920d46-26d1-4cee-9ed4-c2776e019d94",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Tất cả các Bác sĩ - người trực tiếp cung cấp các Dịch vụ thông qua mHealth là các chuyên gia độc lập, tự chịu trách nhiệm cho các Dịch vụ mà họ cung cấp cho bạn. mHealth không hành nghề y khoa hoặc bất cứ ngành nghề chuyên môn được cấp phép khác, cũng không trực tiếp cung cấp dịch vụ y tế và không can thiệp vào việc hành nghề y hoặc bất cứ chuyên môn nào được cấp phép của các Bác sĩ. Bác sĩ tự có trách nhiệm đối với Dịch vụ mà họ cung cấp và tuân thủ các yêu cầu chuyên môn và giấy phép của họ. mHealth không có trách nhiệm pháp lý đối với bất cứ lời tư vấn chuyên môn nào bạn nhận được từ Bác sĩ thông qua Trang.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Tất cả các Bác sĩ - người trực tiếp cung cấp các Dịch vụ thông qua mHealth là các chuyên gia độc lập, tự chịu trách nhiệm cho các Dịch vụ mà họ cung cấp cho bạn. mHealth không hành nghề y khoa hoặc bất cứ ngành nghề chuyên môn được cấp phép khác, cũng không trực tiếp cung cấp dịch vụ y tế và không can thiệp vào việc hành nghề y hoặc bất cứ chuyên môn nào được cấp phép của các Bác sĩ. Bác sĩ tự có trách nhiệm đối với Dịch vụ mà họ cung cấp và tuân thủ các yêu cầu chuyên môn và giấy phép của họ. mHealth không có trách nhiệm pháp lý đối với bất cứ lời tư vấn chuyên môn nào bạn nhận được từ Bác sĩ thông qua Trang.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "89263fd9-dfd1-486a-b39b-69a5e95e55fa",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Nội dung Trang",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Nội dung Trang",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "446e5ccf-386d-4bcc-a7df-b99fda40ca8f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Không một nội dung nào trên Trang (ngoại trừ thông tin mà bạn nhận được từ các Bác sĩ) nên được xem là lời tư vấn y khoa. Không có bất kỳ gợi bệnh hay gợi ý thuốc nào là tuyệt đối an toàn, hoàn toàn thích hợp và hiệu quả với bạn. Các loại thuốc được gợi ý bởi các Bác sĩ chỉ dành cho mục đích tham khảo, bạn chỉ có thể nhận được một lời chẩn đoán và toa thuốc bằng cách gặp trực tiếp các Bác sĩ.Các nội dung liên quan đến kiến thức, bài viết hoặc thông tin có tác giả và nguồn gốc nêu rõ trên Trang như văn bản, đồ họa, hình ảnh, số liệu chỉ dành cho mục đích cung cấp thông tin. Những gì mà Trang đăng tải không thể thay thế cho ý kiến, việc chẩn đoán và phương pháp chữa trị của các chuyên gia y tế. Chúng tôi khuyên bạn luôn ưu tiên việc tự tìm hiểu và xin ý kiến trực tiếp của các bác sĩ và những chuyên gia chăm sóc sức khỏe đáng tin cậy khi tìm hiểu về các loại bệnh. Đừng bao giờ chối bỏ hay trì hoãn việc hỏi xin ý kiến của các chuyên gia y tế chỉ vì những nội dung mà bạn đọc được trên Trang. Nếu bạn đang trong trường hợp cần được cấp cứu y tế, hãy gọi ngay cho các bệnh viện, phòng khám hoặc 115. mHealth không khuyến khích bạn tự mình thực hiện các xét nghiệm, sử dụng các sản phẩm, áp dụng các quy trình, ý kiến và những thông tin được đề cập trên Trang. Mọi vấn đề hoặc rủi ro xảy ra khi phụ thuộc bởi các thông tin cung cấp trên Trang hoàn toàn không liên quan tới mHealth, và là trách nhiệm của chính các cá nhân sử dụng các thông tin trên. Nội dung liên quan tới sức khỏe và y tế trên Trang có thể chứa các nội dung liên quan tới các vấn đề về giới tính và tính dục. Nếu cá nhân sử dụng Trang cảm thấy bị khó chịu hay xúc phạm bởi các nội dung này, cá nhân có thể dừng việc sử dụng Trang.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Không một nội dung nào trên Trang (ngoại trừ thông tin mà bạn nhận được từ các Bác sĩ) nên được xem là lời tư vấn y khoa. Không có bất kỳ gợi bệnh hay gợi ý thuốc nào là tuyệt đối an toàn, hoàn toàn thích hợp và hiệu quả với bạn. Các loại thuốc được gợi ý bởi các Bác sĩ chỉ dành cho mục đích tham khảo, bạn chỉ có thể nhận được một lời chẩn đoán và toa thuốc bằng cách gặp trực tiếp các Bác sĩ.Các nội dung liên quan đến kiến thức, bài viết hoặc thông tin có tác giả và nguồn gốc nêu rõ trên Trang như văn bản, đồ họa, hình ảnh, số liệu chỉ dành cho mục đích cung cấp thông tin. Những gì mà Trang đăng tải không thể thay thế cho ý kiến, việc chẩn đoán và phương pháp chữa trị của các chuyên gia y tế. Chúng tôi khuyên bạn luôn ưu tiên việc tự tìm hiểu và xin ý kiến trực tiếp của các bác sĩ và những chuyên gia chăm sóc sức khỏe đáng tin cậy khi tìm hiểu về các loại bệnh. Đừng bao giờ chối bỏ hay trì hoãn việc hỏi xin ý kiến của các chuyên gia y tế chỉ vì những nội dung mà bạn đọc được trên Trang. Nếu bạn đang trong trường hợp cần được cấp cứu y tế, hãy gọi ngay cho các bệnh viện, phòng khám hoặc 115. mHealth không khuyến khích bạn tự mình thực hiện các xét nghiệm, sử dụng các sản phẩm, áp dụng các quy trình, ý kiến và những thông tin được đề cập trên Trang. Mọi vấn đề hoặc rủi ro xảy ra khi phụ thuộc bởi các thông tin cung cấp trên Trang hoàn toàn không liên quan tới mHealth, và là trách nhiệm của chính các cá nhân sử dụng các thông tin trên. Nội dung liên quan tới sức khỏe và y tế trên Trang có thể chứa các nội dung liên quan tới các vấn đề về giới tính và tính dục. Nếu cá nhân sử dụng Trang cảm thấy bị khó chịu hay xúc phạm bởi các nội dung này, cá nhân có thể dừng việc sử dụng Trang.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "e4f46d9f-d8b4-43cc-a15d-8092da3077fb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Trách nhiệm pháp lý của mHealth và bên cấp phép",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Trách nhiệm pháp lý của mHealth và bên cấp phép",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "e6e30d81-f6fe-4bf8-9d68-8edc3732e678",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Những nguy cơ khi sử dụng các Trang và nội dung trên Trang do chính người sử dụng chịu trách nhiệm mà không có bất cứ liên quan nào đến mHealth. Khi sử dụng các Trang của mHealth, thông tin được truyền qua trung gian nằm ngoài tầm kiểm soát và quyền hạn của mHealth và các nhà cung cấp của mHealth. Theo đó, mHealth không chịu trách nhiệm cho sự chậm trễ, thất bại, bị gián đoạn, hoặc hư hỏng của bất kỳ dữ liệu hay thông tin nào được truyền đi trong quá trình sử dụng Trang.Trang và nội dung trên Trang được cung cấp nguyên trạng tới người sử dụng. Trong phạm vi pháp luật cho phép, mHealth và nhà cung cấp thông tin của chúng tôi từ chối bảo đảm và chứng thực, bao gồm nhưng không giới hạn về việc bảo đảm thương mại cho bên thứ ba, bảo đảm rằng quyền lợi của bên thứ ba không bị vi phạm và phù hợp với mục đích cụ thể theo đúng quy định của pháp luật. mHealth và các nhà cung cấp của chúng tôi không đại diện hoặc bảo đảm các điều sau:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Những nguy cơ khi sử dụng các Trang và nội dung trên Trang do chính người sử dụng chịu trách nhiệm mà không có bất cứ liên quan nào đến mHealth. Khi sử dụng các Trang của mHealth, thông tin được truyền qua trung gian nằm ngoài tầm kiểm soát và quyền hạn của mHealth và các nhà cung cấp của mHealth. Theo đó, mHealth không chịu trách nhiệm cho sự chậm trễ, thất bại, bị gián đoạn, hoặc hư hỏng của bất kỳ dữ liệu hay thông tin nào được truyền đi trong quá trình sử dụng Trang.Trang và nội dung trên Trang được cung cấp nguyên trạng tới người sử dụng. Trong phạm vi pháp luật cho phép, mHealth và nhà cung cấp thông tin của chúng tôi từ chối bảo đảm và chứng thực, bao gồm nhưng không giới hạn về việc bảo đảm thương mại cho bên thứ ba, bảo đảm rằng quyền lợi của bên thứ ba không bị vi phạm và phù hợp với mục đích cụ thể theo đúng quy định của pháp luật. mHealth và các nhà cung cấp của chúng tôi không đại diện hoặc bảo đảm các điều sau:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "6d0c1c00-f17a-4e2c-ac73-19d8cd946b12",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Độ chính xác, độ tin cậy, tính đầy đủ, sự cập nhật của nội dung, phần mềm, văn bản, đồ họa, các liên kết hoặc thông tin liên lạc được cung cấp;",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Độ chính xác, độ tin cậy, tính đầy đủ, sự cập nhật của nội dung, phần mềm, văn bản, đồ họa, các liên kết hoặc thông tin liên lạc được cung cấp;",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "ed592546-dff1-4c18-95ba-9c319d27d8c0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Việc tuân thủ theo bất cứ quy định nào của nhà nước về yêu cầu tiết lộ thông tin của các sản phẩm thuốc gợi ý hay việc chấp thuận hoặc tuân thủ của theo các quy định của nhà nước của các công cụ phần mềm liên quan đến nội dung trên Trang.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Việc tuân thủ theo bất cứ quy định nào của nhà nước về yêu cầu tiết lộ thông tin của các sản phẩm thuốc gợi ý hay việc chấp thuận hoặc tuân thủ của theo các quy định của nhà nước của các công cụ phần mềm liên quan đến nội dung trên Trang.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "d76bdbec-e4b8-4921-a4ca-18b08076d024",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "mHealth bất kỳ bên thứ ba nào được đề cập trên Trang sẽ không chịu trách nhiệm cho bất kỳ thiệt hại (bao gồm nhưng không giới hạn các thiệt hại ngẫu nhiên và là hậu quả của một sự kiện, thương tích/tử vong, thâm hụt lợi nhuận hoặc các thiệt hại gây ra bởi việc mất dữ liệu hoặc các trở ngại trong kinh doanh) có nguyên nhân từ việc sử dụng không hiệu quả Trang hoặc nội dung trên Trang được xác định dựa trên giấy bảo hành, hợp đồng, sai phạm pháp lý hoặc bất kỳ lý thuyết pháp lý nào khác, dù mHealth hoặc bất kỳ bên thứ ba được đề cập trên Trang có được thông báo về những khả năng thiệt hại đó hay không. mHealth hoặc bất kỳ bên thứ ba được đề cập trên các Trang không chịu trách nhiệm cho bất kỳ thương tích cá nhân, kể cả tử vong gây ra bởi việc sử dụng hoặc lạm dụng Trang hoặc nội dung trên Trang của chúng tôi.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "mHealth bất kỳ bên thứ ba nào được đề cập trên Trang sẽ không chịu trách nhiệm cho bất kỳ thiệt hại (bao gồm nhưng không giới hạn các thiệt hại ngẫu nhiên và là hậu quả của một sự kiện, thương tích/tử vong, thâm hụt lợi nhuận hoặc các thiệt hại gây ra bởi việc mất dữ liệu hoặc các trở ngại trong kinh doanh) có nguyên nhân từ việc sử dụng không hiệu quả Trang hoặc nội dung trên Trang được xác định dựa trên giấy bảo hành, hợp đồng, sai phạm pháp lý hoặc bất kỳ lý thuyết pháp lý nào khác, dù mHealth hoặc bất kỳ bên thứ ba được đề cập trên Trang có được thông báo về những khả năng thiệt hại đó hay không. mHealth hoặc bất kỳ bên thứ ba được đề cập trên các Trang không chịu trách nhiệm cho bất kỳ thương tích cá nhân, kể cả tử vong gây ra bởi việc sử dụng hoặc lạm dụng Trang hoặc nội dung trên Trang của chúng tôi.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "fd353cbc-1648-4b7c-8ba8-bd72c88f5e09",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Về việc sử dụng nội dung",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Về việc sử dụng nội dung",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "dc1dbb45-224f-4b40-a823-9a82b000fc03",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "mHealth cho phép người dùng xem hoặc tải một bản sao của tài liệu trên Trang chỉ nhằm để phục vụ mục đích cá nhân, phi thương mại của bạn và đòi hỏi bạn giữ nguyên các thông báo bản quyền nằm ở cuối của tài liệu liệu, ví dụ như: “© 2015, Công ty cổ phần Công nghệ mHealth”. Thông báo “Bản quyền đã được bảo hộ” cùng các thông báo về bản quyền và các quyền sở hữu khác được bao gồm trong nội dung. Bất kỳ quy tắc đặc biệt áp dụng cho việc sử dụng các phần mềm và các mặt hàng nhất định có thể truy cập được trên Trang có thể nằm trên một vị trí khác trong Trang và được đính kèm các điều khoản và điều kiện này để người dùng tham khảo.Nội dung của chúng tôi được bảo vệ bởi bản quyền được quản lý bởi pháp luật Việt Nam và pháp luật nước ngoài. Từ tiêu đề đến nội dung đều thuộc về mHealth hoặc bên cung cấp. Bất kỳ mục đích sử dụng nội dung không được phép của Điều khoản và điều kiện sử dụng của bên chúng tôi là một hành vi vi phạm các Điều khoản và điều kiện cũng như vi phạm bản quyền, nhãn hiệu và các bộ luật khác. Nội dung và các tính năng có thể thay đổi hoặc chấm dứt mà không cần thông báo bởi mHealth. Tất cả các quyền không được công nhận ở đây đều thuộc về mHealth Group và bên cung cấp.Nếu bạn vi phạm bất kỳ Điều khoản và điều kiện nào, quyền sử dụng nội dung của bạn tự động kết thúc và bất kỳ bản sao nội dung mà bạn lấy từ Trang của chúng tôi phải ngay lập tức được tiêu hủy.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "mHealth cho phép người dùng xem hoặc tải một bản sao của tài liệu trên Trang chỉ nhằm để phục vụ mục đích cá nhân, phi thương mại của bạn và đòi hỏi bạn giữ nguyên các thông báo bản quyền nằm ở cuối của tài liệu liệu, ví dụ như: “© 2015, Công ty cổ phần Công nghệ mHealth”. Thông báo “Bản quyền đã được bảo hộ” cùng các thông báo về bản quyền và các quyền sở hữu khác được bao gồm trong nội dung. Bất kỳ quy tắc đặc biệt áp dụng cho việc sử dụng các phần mềm và các mặt hàng nhất định có thể truy cập được trên Trang có thể nằm trên một vị trí khác trong Trang và được đính kèm các điều khoản và điều kiện này để người dùng tham khảo.Nội dung của chúng tôi được bảo vệ bởi bản quyền được quản lý bởi pháp luật Việt Nam và pháp luật nước ngoài. Từ tiêu đề đến nội dung đều thuộc về mHealth hoặc bên cung cấp. Bất kỳ mục đích sử dụng nội dung không được phép của Điều khoản và điều kiện sử dụng của bên chúng tôi là một hành vi vi phạm các Điều khoản và điều kiện cũng như vi phạm bản quyền, nhãn hiệu và các bộ luật khác. Nội dung và các tính năng có thể thay đổi hoặc chấm dứt mà không cần thông báo bởi mHealth. Tất cả các quyền không được công nhận ở đây đều thuộc về mHealth Group và bên cung cấp.Nếu bạn vi phạm bất kỳ Điều khoản và điều kiện nào, quyền sử dụng nội dung của bạn tự động kết thúc và bất kỳ bản sao nội dung mà bạn lấy từ Trang của chúng tôi phải ngay lập tức được tiêu hủy.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "05d777bb-29b8-425b-be5e-20d2fc9a0a04",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Thông tin đã được hiểu",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Thông tin đã được hiểu",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "11bc263a-b69d-44f2-9e58-0c357352035e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Tư vấn sức khỏe từ xa là việc thực hiện các Dịch vụ chăm sóc sức khỏe sử dụng công nghệ hình ảnh và âm thanh tương tác, khi mà bệnh nhân và các chuyên gia y tế không ở cùng một vị trí địa lý.  Trong thời gian bạn tham vấn chăm sóc sức khỏe từ xa với một Bác sĩ, chi tiết về tiền sử sức khỏe và thông tin sức khỏe cá nhân của bạn có thể sẽ được thảo luận thông qua việc sử dụng hình ảnh, âm thanh và các công nghệ viễn thông tương tác khác, và Bác sĩ của bạn có thể sẽ tiến hành tư vấn sức khỏe thông qua các công nghệ trên.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Tư vấn sức khỏe từ xa là việc thực hiện các Dịch vụ chăm sóc sức khỏe sử dụng công nghệ hình ảnh và âm thanh tương tác, khi mà bệnh nhân và các chuyên gia y tế không ở cùng một vị trí địa lý.  Trong thời gian bạn tham vấn chăm sóc sức khỏe từ xa với một Bác sĩ, chi tiết về tiền sử sức khỏe và thông tin sức khỏe cá nhân của bạn có thể sẽ được thảo luận thông qua việc sử dụng hình ảnh, âm thanh và các công nghệ viễn thông tương tác khác, và Bác sĩ của bạn có thể sẽ tiến hành tư vấn sức khỏe thông qua các công nghệ trên.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "6d40e47f-df33-4ab0-9460-f4de2f911d18",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Các Dịch vụ Tư vấn sức khỏe từ xa bạn nhận được từ những Bác sĩ không dùng để thay thế mối quan hệ của bạn với bác sĩ hoặc cơ sở y tế.  Bạn nên tìm hỗ trợ cấp cứu hoặc chăm sóc sức khỏe sau khi điều trị khi được một Bác sĩ đề nghị hoặc khi cần thiết khác, và tiếp tục tham khảo ý kiến bác sĩ của bạn và các chuyên gia y tế khác như đã được khuyến cáo. Tuy nhiên, giống như các loại hình Dịch vụ y tế khác, có các rủi ro tiềm ẩn gắn với việc sử dụng Dịch vụ chăm sóc sức khỏe từ xa. Những rủi ro này bao gồm, nhưng không chỉ giới hạn với: (i) Thông tin được gửi có thể không đủ (ví dụ độ phân giải hình ảnh thấp) để Bác sĩ đưa ra quyết định chăm sóc sức khỏe phù hợp; (ii) Thiết bị điện tử trục trặc. (iii) Thông tin hồ sơ sức khỏe không đầy đủ của bạn có thể gây ra tương tác thuốc bất lợi hoặc các phản ứng dị ứng hoặc những lỗi phán đoán khác; (iv) Mặc dù các hệ thống điện tử chúng tôi sử dụng sẽ tích hợp các giao thức mạng và phần mềm bảo mật để bảo vệ tính riêng tư và bảo mật thông tin y tế, trong một số trường hợp, các giao thức bảo mật có thể thất bại, dẫn đến một sư vi phạm quyền riêng tư về thông tin sức khỏe cá nhân.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Các Dịch vụ Tư vấn sức khỏe từ xa bạn nhận được từ những Bác sĩ không dùng để thay thế mối quan hệ của bạn với bác sĩ hoặc cơ sở y tế.  Bạn nên tìm hỗ trợ cấp cứu hoặc chăm sóc sức khỏe sau khi điều trị khi được một Bác sĩ đề nghị hoặc khi cần thiết khác, và tiếp tục tham khảo ý kiến bác sĩ của bạn và các chuyên gia y tế khác như đã được khuyến cáo. Tuy nhiên, giống như các loại hình Dịch vụ y tế khác, có các rủi ro tiềm ẩn gắn với việc sử dụng Dịch vụ chăm sóc sức khỏe từ xa. Những rủi ro này bao gồm, nhưng không chỉ giới hạn với: (i) Thông tin được gửi có thể không đủ (ví dụ độ phân giải hình ảnh thấp) để Bác sĩ đưa ra quyết định chăm sóc sức khỏe phù hợp; (ii) Thiết bị điện tử trục trặc. (iii) Thông tin hồ sơ sức khỏe không đầy đủ của bạn có thể gây ra tương tác thuốc bất lợi hoặc các phản ứng dị ứng hoặc những lỗi phán đoán khác; (iv) Mặc dù các hệ thống điện tử chúng tôi sử dụng sẽ tích hợp các giao thức mạng và phần mềm bảo mật để bảo vệ tính riêng tư và bảo mật thông tin y tế, trong một số trường hợp, các giao thức bảo mật có thể thất bại, dẫn đến một sư vi phạm quyền riêng tư về thông tin sức khỏe cá nhân.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "d79a08ff-703f-4a25-83bf-241bb409b17d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Bằng việc chấp thuận các điều khoản sử dụng này, bạn thừa nhận rằng bạn hiểu và đồng ý với các điều sau:(i) Bạn hiểu rằng bạn có thể trông đợi lợi ích dự kiến từ việc sử dụng chăm sóc sức khỏe từ xa trong việc chăm sóc của bạn, nhưng không kết quả nào có thể được đảm bảo chắc chắn. (ii) Bạn phải chịu trách nhiệm thanh toán hoàn toàn các chi phí liên quan đến dịch vụ tư vấn sức khỏe từ xa (iii) Bác sĩ của bạn có thể xác định rằng Dịch vụ không phù hợp đối với một số hoặc tất cả các nhu cầu chăm sóc và điều trị của bạn, theo đó có thể chọn không cung cấp Dịch vụ tư vấn sức khỏe từ xa cho bạn thông qua Trang hoặc yêu cầu bạn đến khám trực tiếp. (iv) Nếu bạn phải điều trị cấp cứu, bạn nên gọi 115, các bệnh viện và phòng khám địa phương hoặc đi đến các phòng cấp cứu gần nhất.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Bằng việc chấp thuận các điều khoản sử dụng này, bạn thừa nhận rằng bạn hiểu và đồng ý với các điều sau:(i) Bạn hiểu rằng bạn có thể trông đợi lợi ích dự kiến từ việc sử dụng chăm sóc sức khỏe từ xa trong việc chăm sóc của bạn, nhưng không kết quả nào có thể được đảm bảo chắc chắn. (ii) Bạn phải chịu trách nhiệm thanh toán hoàn toàn các chi phí liên quan đến dịch vụ tư vấn sức khỏe từ xa (iii) Bác sĩ của bạn có thể xác định rằng Dịch vụ không phù hợp đối với một số hoặc tất cả các nhu cầu chăm sóc và điều trị của bạn, theo đó có thể chọn không cung cấp Dịch vụ tư vấn sức khỏe từ xa cho bạn thông qua Trang hoặc yêu cầu bạn đến khám trực tiếp. (iv) Nếu bạn phải điều trị cấp cứu, bạn nên gọi 115, các bệnh viện và phòng khám địa phương hoặc đi đến các phòng cấp cứu gần nhất.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "462beeed-b14e-4802-bdb8-2e350f56d6b6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Quyền riêng tư",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Quyền riêng tư",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "d15ca245-ed3a-4ab3-ab45-9815911e2502",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Bạn đồng ý nhập thông tin liên lạc của bạn, thông tin sức khỏe và hồ sơ y tế dưới các hình thức văn bản, hình ảnh, giọng nói hoặc video vào Trang và các ứng dụng của mHealth, các thông tin này sẽ được lưu trữ bởi mHealth, máy tính và các hệ thống điện toán đám mây của bên thứ ba. Chúng tôi nỗ lực tối đa đảm bảo rằng thông tin cá nhân của bạn được an toàn. Mặc dù việc nhắn tin điện tử được bảo mật luôn được ưu tiên hơn email không được bảo mật, trong những trường hợp nhất định, việc truyền thông qua email không được bảo mật có chứa thông tin sức khỏe cá nhân có thể xảy ra giữa bạn và mHealth. mHealth không thể đảm bảo sự an toàn hoặc bảo mật của những thư đã gửi qua email.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Bạn đồng ý nhập thông tin liên lạc của bạn, thông tin sức khỏe và hồ sơ y tế dưới các hình thức văn bản, hình ảnh, giọng nói hoặc video vào Trang và các ứng dụng của mHealth, các thông tin này sẽ được lưu trữ bởi mHealth, máy tính và các hệ thống điện toán đám mây của bên thứ ba. Chúng tôi nỗ lực tối đa đảm bảo rằng thông tin cá nhân của bạn được an toàn. Mặc dù việc nhắn tin điện tử được bảo mật luôn được ưu tiên hơn email không được bảo mật, trong những trường hợp nhất định, việc truyền thông qua email không được bảo mật có chứa thông tin sức khỏe cá nhân có thể xảy ra giữa bạn và mHealth. mHealth không thể đảm bảo sự an toàn hoặc bảo mật của những thư đã gửi qua email.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "d4152126-6388-4cbd-b4df-c31896b9c9c5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Tài khoản người dùng",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Tài khoản người dùng",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "f4ebd52e-b63e-43d0-a193-75d47322a533",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Khi bạn đăng kí trên trang, bạn được yêu cầu tạo một tài khoản (”Tài khoản”) bằng cách điền tên, số điện thoại, email, mật khẩu, và một số thông tin nhất định khác, được thu thập bởi mHealth (gọi chung là “Thông tin tài khoản”). Để tạo một tài khoản, bạn phải đủ tuổi hợp pháp để làm hợp đồng. Nếu bạn không đủ tuổi hợp pháp để tạo hợp đồng ràng buộc, bạn không được phép đăng ký để sử dụng Dịch vụ của chúng tôi. Bạn đồng ý rằng thông tin tài khoản mà bạn cung cấp cho chúng tôi ở mọi thời điểm, bao gồm trong quá trình đăng ký và trong bất cứ thông tin nào bạn đăng tải lên Trang là chính xác, cập nhật và đầy đủ. Bạn không có quyền chuyển nhượng hay chia sẻ mật khẩu tài khoản của bạn với bất cứ ai.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Khi bạn đăng kí trên trang, bạn được yêu cầu tạo một tài khoản (”Tài khoản”) bằng cách điền tên, số điện thoại, email, mật khẩu, và một số thông tin nhất định khác, được thu thập bởi mHealth (gọi chung là “Thông tin tài khoản”). Để tạo một tài khoản, bạn phải đủ tuổi hợp pháp để làm hợp đồng. Nếu bạn không đủ tuổi hợp pháp để tạo hợp đồng ràng buộc, bạn không được phép đăng ký để sử dụng Dịch vụ của chúng tôi. Bạn đồng ý rằng thông tin tài khoản mà bạn cung cấp cho chúng tôi ở mọi thời điểm, bao gồm trong quá trình đăng ký và trong bất cứ thông tin nào bạn đăng tải lên Trang là chính xác, cập nhật và đầy đủ. Bạn không có quyền chuyển nhượng hay chia sẻ mật khẩu tài khoản của bạn với bất cứ ai.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "bb19ee4d-f131-4541-860c-ef8e1fbf707a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Bạn chịu trách nhiệm cho việc duy trì tính bảo mật của mật khẩu tài khoản của bạn và cho tất cả các hoạt động diễn ra trong tài khoản của bạn. mHealth có quyền thực hiện bất kỳ và tất cả các hành động, nếu xét thấy cần thiết hoặc hợp lý, liên quan đến sự an toàn của Trang và thông tin tài khoản của bạn. Trong mọi trường hợp và dưới mọi hoàn cảnh mHealth không chịu trách nhiệm về bất cứ trách nhiệm pháp lý hoặc thiệt hại do hoặc phát sinh từ việc sử dụng Trang của bạn,việc sử dụng thông tin tài khoản của bạn hay việc lộ thông tin tài khoản cho một bên thứ ba của bạn. Bạn không được sử dụng tài khoản của người khác vào bất cứ lúc nào.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Bạn chịu trách nhiệm cho việc duy trì tính bảo mật của mật khẩu tài khoản của bạn và cho tất cả các hoạt động diễn ra trong tài khoản của bạn. mHealth có quyền thực hiện bất kỳ và tất cả các hành động, nếu xét thấy cần thiết hoặc hợp lý, liên quan đến sự an toàn của Trang và thông tin tài khoản của bạn. Trong mọi trường hợp và dưới mọi hoàn cảnh mHealth không chịu trách nhiệm về bất cứ trách nhiệm pháp lý hoặc thiệt hại do hoặc phát sinh từ việc sử dụng Trang của bạn,việc sử dụng thông tin tài khoản của bạn hay việc lộ thông tin tài khoản cho một bên thứ ba của bạn. Bạn không được sử dụng tài khoản của người khác vào bất cứ lúc nào.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "676fd6c1-4797-4b3e-ade4-dc51f416ba3a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Thành viên đăng kí cho tất cả các bệnh nhân dưới 18 tuổi phải là cha mẹ hoặc người giám hộ hợp pháp của bệnh nhân. Nếu bạn đăng ký như là cha mẹ hoặc người giám hộ hợp pháp thay mặt cho trẻ vị thành niên, bạn sẽ hoàn toàn chịu trách nhiệm tuân thủ các điều khoản sử dụng.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Thành viên đăng kí cho tất cả các bệnh nhân dưới 18 tuổi phải là cha mẹ hoặc người giám hộ hợp pháp của bệnh nhân. Nếu bạn đăng ký như là cha mẹ hoặc người giám hộ hợp pháp thay mặt cho trẻ vị thành niên, bạn sẽ hoàn toàn chịu trách nhiệm tuân thủ các điều khoản sử dụng.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "58937762-7843-4329-bffb-6cae34d33dda",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Chúng tôi đồng ý cấp cho bạn một quyền bị giới hạn, không độc quyền, và không thể chuyển nhượng để truy cập Trang và sử dụng các Dịch vụ chỉ duy nhất cho mục đích sử dụng cá nhân phi thương mại của bạn và chỉ được cho phép theo các điều khoản sử dụng. Chúng tôi có toàn quyền, từ chối hoặc đình chỉ việc sử dụng Trang hoặc Dịch vụ đối với bất kì ai, với bất cứ lý do nào. Bạn đồng ý rằng bạn sẽ không, và sẽ không cố gắng để: (a) mạo danh bất kỳ người nào hoặc tổ chức nào, hoặc trình bày sai quan hệ của bạn với một cá nhân hoặc tổ chức; (b) sử dụng Trang hoặc Dịch vụ để vi phạm luật pháp Việt Nam hoặc Quốc tế; (c) sử dụng công nghệ đảo ngược, phân giải, giãi mã, hay bất kỳ phần mềm đối với Trang hoặc Dịch vụ; (d) phát tán virus hoặc các mã máy tính độc hại khác thông qua Trang hay; (e) sử dụng Dịch vụ hoặc Trang theo bất cứ cách nào mà vượt quá phạm vi sử dụng được cho phép ở trên. Ngoài ra, bạn đồng ý kiềm chế ngôn ngữ quá khích khi giao tiếp với các Bác sĩ thông qua Trang và không liên hệ với Bác sĩ để sử dụng Dịch vụ tư vấn sức khỏe từ xa ngoài Trang.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Chúng tôi đồng ý cấp cho bạn một quyền bị giới hạn, không độc quyền, và không thể chuyển nhượng để truy cập Trang và sử dụng các Dịch vụ chỉ duy nhất cho mục đích sử dụng cá nhân phi thương mại của bạn và chỉ được cho phép theo các điều khoản sử dụng. Chúng tôi có toàn quyền, từ chối hoặc đình chỉ việc sử dụng Trang hoặc Dịch vụ đối với bất kì ai, với bất cứ lý do nào. Bạn đồng ý rằng bạn sẽ không, và sẽ không cố gắng để: (a) mạo danh bất kỳ người nào hoặc tổ chức nào, hoặc trình bày sai quan hệ của bạn với một cá nhân hoặc tổ chức; (b) sử dụng Trang hoặc Dịch vụ để vi phạm luật pháp Việt Nam hoặc Quốc tế; (c) sử dụng công nghệ đảo ngược, phân giải, giãi mã, hay bất kỳ phần mềm đối với Trang hoặc Dịch vụ; (d) phát tán virus hoặc các mã máy tính độc hại khác thông qua Trang hay; (e) sử dụng Dịch vụ hoặc Trang theo bất cứ cách nào mà vượt quá phạm vi sử dụng được cho phép ở trên. Ngoài ra, bạn đồng ý kiềm chế ngôn ngữ quá khích khi giao tiếp với các Bác sĩ thông qua Trang và không liên hệ với Bác sĩ để sử dụng Dịch vụ tư vấn sức khỏe từ xa ngoài Trang.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "d64ecd75-4499-45ac-be03-62702ffe922d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Phí dịch vụ",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Phí dịch vụ",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "1d739900-7600-4021-9a9e-6a5d2810006a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Bạn đồng ý có trách nhiệm chi trả toàn bộ các khoản lệ phí hoặc chi phí bằng tài khoản của bạn, phù hợp với điều khoản về thanh toán chi phí và lệ phí có hiệu lực ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Bạn đồng ý có trách nhiệm chi trả toàn bộ các khoản lệ phí hoặc chi phí bằng tài khoản của bạn, phù hợp với điều khoản về thanh toán chi phí và lệ phí có hiệu lực ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "(",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "(",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "xem chi tiết tại đây",
+            "link": {
+              "url": "https://khamtuxa.vn/dich-vu/chinh-sach-phi-kham-tu-xa"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "xem chi tiết tại đây",
+          "href": "https://khamtuxa.vn/dich-vu/chinh-sach-phi-kham-tu-xa"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ").",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ").",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "47f08e5a-53c9-45e5-a79b-c5101f7b9140",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Bằng cách cung cấp mHealth thông tin thanh toán (số thẻ tín dụng, thẻ điện thoại trả trước, tài khoản ngân hàng hoặc các thông tin thanh toán liên quan khác), bạn đồng ý rằng mHealth được phép phong tỏa tiền trong “tài khoản Wellcare” (là tài khoản tiền tại Trang thuộc về bạn do chính bạn nạp từ trước đó) của bạn trước khi yêu cầu các Bác sĩ cung cấp Dịch vụ tư vấn sức khoẻ theo yêu cầu của bạn. Ngay sau khi dịch vụ tư vấn sức khỏe từ xa được Bác sĩ mHealth cũng sẽ ngay lập tức chuyển trạng thái số tiền tiền đã phong tỏa từ tài khoản Wellcare của bạn thành khoản doanh thu phải trả cho Bác sĩ và các khoản chi phí cho Trang.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Bằng cách cung cấp mHealth thông tin thanh toán (số thẻ tín dụng, thẻ điện thoại trả trước, tài khoản ngân hàng hoặc các thông tin thanh toán liên quan khác), bạn đồng ý rằng mHealth được phép phong tỏa tiền trong “tài khoản Wellcare” (là tài khoản tiền tại Trang thuộc về bạn do chính bạn nạp từ trước đó) của bạn trước khi yêu cầu các Bác sĩ cung cấp Dịch vụ tư vấn sức khoẻ theo yêu cầu của bạn. Ngay sau khi dịch vụ tư vấn sức khỏe từ xa được Bác sĩ mHealth cũng sẽ ngay lập tức chuyển trạng thái số tiền tiền đã phong tỏa từ tài khoản Wellcare của bạn thành khoản doanh thu phải trả cho Bác sĩ và các khoản chi phí cho Trang.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "bf1963b2-dbb0-4528-a005-9da13cac93f0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Bạn hoàn toàn hiểu được rằng tài khoản tài khoản Wellcare của bạn không phải là một “ví tiền điện tử” và do vậy đồng ý rằng trong bất kỳ trường hợp nào, số dư trong tài khoản Wellcare của bạn chỉ có thể được sử dụng cho các Dịch vụ tư vấn và chăm sóc sức khỏe từ xa trong tương lai và không thể được sử dụng để rút tiền.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Bạn hoàn toàn hiểu được rằng tài khoản tài khoản Wellcare của bạn không phải là một “ví tiền điện tử” và do vậy đồng ý rằng trong bất kỳ trường hợp nào, số dư trong tài khoản Wellcare của bạn chỉ có thể được sử dụng cho các Dịch vụ tư vấn và chăm sóc sức khỏe từ xa trong tương lai và không thể được sử dụng để rút tiền.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "e5a43725-ed08-46e1-a402-77358a3e4c09",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Quyền sở hữu trí tuệ",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Quyền sở hữu trí tuệ",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2d06011f-7106-4324-a068-608573418d32",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Trang và toàn bộ nội dung, các tính năng và chức năng của Trang (bao gồm nhưng không giới hạn tất cả các thông tin, phần mềm, văn bản, trình bày, thiết kế, hình ảnh, video và âm thanh), thuộc quyền sở hữu của mHealth được bảo vệ bởi luật bản quyền của Việt Nam và quốc tế, nhãn hiệu, bằng sáng chế, bí mật thương mại và luật sở hữu trí tuệ hoặc các quyền sở hữu khác. Bạn chỉ được sử dụng Trang cho mục đích cá nhân và phi thương mại.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Trang và toàn bộ nội dung, các tính năng và chức năng của Trang (bao gồm nhưng không giới hạn tất cả các thông tin, phần mềm, văn bản, trình bày, thiết kế, hình ảnh, video và âm thanh), thuộc quyền sở hữu của mHealth được bảo vệ bởi luật bản quyền của Việt Nam và quốc tế, nhãn hiệu, bằng sáng chế, bí mật thương mại và luật sở hữu trí tuệ hoặc các quyền sở hữu khác. Bạn chỉ được sử dụng Trang cho mục đích cá nhân và phi thương mại.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "74980355-0d14-4cb2-958e-9996fdc7cef5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Ngoại trừ mục đích chia sẻ trên các trang mạng xã hội từ chính các tài khoản xã hội của bạn, bạn không được sao chép, phân phối, sửa đổi, tạo ra sản phẩm phái sinh, trưng bày công khai, công khai thực hiện, tái xuất bản, tải về, lưu trữ hoặc truyền tải bất kỳ tài liệu nào trên Trang của chúng tôi, ngoại trừ tình huống được nhận sự đồng ý của chúng tôi bằng văn bản.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Ngoại trừ mục đích chia sẻ trên các trang mạng xã hội từ chính các tài khoản xã hội của bạn, bạn không được sao chép, phân phối, sửa đổi, tạo ra sản phẩm phái sinh, trưng bày công khai, công khai thực hiện, tái xuất bản, tải về, lưu trữ hoặc truyền tải bất kỳ tài liệu nào trên Trang của chúng tôi, ngoại trừ tình huống được nhận sự đồng ý của chúng tôi bằng văn bản.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "96f7c0ce-880d-4feb-a13a-ab6b3ff97f69",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Một số tên, biểu tượng, tài liệu khác được hiển thị trên Trang hoặc các Dịch vụ có thể cấu thành thương hiệu, tên thương mại, nhãn hiệu Dịch vụ, biểu tượng (“Nhãn hiệu”) của mHealth hoặc chủ thể khác. Bạn không được phép sử dụng bất kỳ nhãn hiệu nào trong số này, ngoại trừ tình huống được nhận sự đồng ý của chúng tôi bằng văn bản.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Một số tên, biểu tượng, tài liệu khác được hiển thị trên Trang hoặc các Dịch vụ có thể cấu thành thương hiệu, tên thương mại, nhãn hiệu Dịch vụ, biểu tượng (“Nhãn hiệu”) của mHealth hoặc chủ thể khác. Bạn không được phép sử dụng bất kỳ nhãn hiệu nào trong số này, ngoại trừ tình huống được nhận sự đồng ý của chúng tôi bằng văn bản.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "0c16edee-e27c-4f27-9e9c-24e29a8b2bbe",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Thông tin được bỏ nhận dạng. Chúng tôi có thể bỏ nhận dạng, tổng hợp, tóm tắt thông tin y tế từ Hồ Sơ Y Tế Cá Nhân (“Thông tin được bỏ nhận dạng”). Chúng tôi giữ mọi quyền, danh nghĩa và lợi ích đối với tất cả các thông tin đã được bỏ nhận dạng và có thể sử dụng, tiết lộ, tiếp thị, cấp phép đối với thông tin đã được bỏ nhận dạng này với bất kỳ mục đích nào.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Thông tin được bỏ nhận dạng. Chúng tôi có thể bỏ nhận dạng, tổng hợp, tóm tắt thông tin y tế từ Hồ Sơ Y Tế Cá Nhân (“Thông tin được bỏ nhận dạng”). Chúng tôi giữ mọi quyền, danh nghĩa và lợi ích đối với tất cả các thông tin đã được bỏ nhận dạng và có thể sử dụng, tiết lộ, tiếp thị, cấp phép đối với thông tin đã được bỏ nhận dạng này với bất kỳ mục đích nào.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "5c705a18-2d48-4e9e-aae5-0ff62f1e99f1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Quảng cáo, thanh tìm kiếm và link dẫn sang những trang web khác",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Quảng cáo, thanh tìm kiếm và link dẫn sang những trang web khác",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "41adb72d-3581-42dc-b85d-f8bc7338bbbd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "mHealth có thể cung cấp các link dẫn sang trang web của bên thứ ba. mHealth cũng có thể lựa chọn và ưu tiên một số trang web nhất định khi bạn nhập cụm từ tìm kiếm và mHealth cũng có thể cho phép các đơn vị quảng cáo hiện quảng cáo và các nội dung được tài trợ khi một số cụm từ tìm kiếm nhất định được nhập vào. mHealth không khuyến khích cũng như bảo đảm cho nội dung trên trang web của bên thứ ba. mHealth không chịu trách nhiệm hay đảm bảo cho tính chính xác của nội dung trang web được dẫn link hay nằm trong Trang của mHealth, các trang web của bên thứ ba nằm trong kết quả tìm kiếm hay quảng cáo của chúng tôi. Bạn hoàn toàn tự chịu trách nhiệm nếu bất cứ vấn đề gì xảy ra khi sử dụng trang web của bên thứ ba cũng như chịu sự quản lý của các điều khoản và điều kiện của trang web của các trang web này. mHealth không xác nhận và đảm bảo cho bất kỳ sản phẩm, dịch vụ hoặc phương thức điều trị được quảng cáo trên các Trang của mHealth.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "mHealth có thể cung cấp các link dẫn sang trang web của bên thứ ba. mHealth cũng có thể lựa chọn và ưu tiên một số trang web nhất định khi bạn nhập cụm từ tìm kiếm và mHealth cũng có thể cho phép các đơn vị quảng cáo hiện quảng cáo và các nội dung được tài trợ khi một số cụm từ tìm kiếm nhất định được nhập vào. mHealth không khuyến khích cũng như bảo đảm cho nội dung trên trang web của bên thứ ba. mHealth không chịu trách nhiệm hay đảm bảo cho tính chính xác của nội dung trang web được dẫn link hay nằm trong Trang của mHealth, các trang web của bên thứ ba nằm trong kết quả tìm kiếm hay quảng cáo của chúng tôi. Bạn hoàn toàn tự chịu trách nhiệm nếu bất cứ vấn đề gì xảy ra khi sử dụng trang web của bên thứ ba cũng như chịu sự quản lý của các điều khoản và điều kiện của trang web của các trang web này. mHealth không xác nhận và đảm bảo cho bất kỳ sản phẩm, dịch vụ hoặc phương thức điều trị được quảng cáo trên các Trang của mHealth.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "00bf4366-383c-40f6-b8cf-8e3d847e7e43",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Bồi thường",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Bồi thường",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "a28bf6ac-cc70-46bc-a1f4-786b3fea48f0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Bạn phải đồng ý bảo vệ, bồi thường và đảm bảo cho mHealth, viên chức, giám đốc, nhân viên, đại lý, bên cấp phép và các nhà cung cấp dịch vụ của chúng tôi không chịu bất cứ tổn hại nào từ các khiếu nại, hành vi hay yêu cầu, trách nhiệm và hòa giải, bao gồm nhưng không giới hạn các chi phí pháp lý và kế toán của các cáo buộc có nguyên nhân là việc vi phạm các Điều khoản và điều kiện của bạn.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Bạn phải đồng ý bảo vệ, bồi thường và đảm bảo cho mHealth, viên chức, giám đốc, nhân viên, đại lý, bên cấp phép và các nhà cung cấp dịch vụ của chúng tôi không chịu bất cứ tổn hại nào từ các khiếu nại, hành vi hay yêu cầu, trách nhiệm và hòa giải, bao gồm nhưng không giới hạn các chi phí pháp lý và kế toán của các cáo buộc có nguyên nhân là việc vi phạm các Điều khoản và điều kiện của bạn.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "27686e34-2b8d-4225-90bc-ce3ad7c4aa74",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Quyền hạn",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Quyền hạn",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "1fb7adf4-7acf-4594-b875-c45953eeaf46",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Bạn đồng tình rằng thẩm quyền phân xử bất kỳ tranh chấp hay bất cứ vấn đề nào với mHealth hoặc Trang là của tòa án nước Việt Nam. Bạn cũng đồng tình và bằng lòng thực thi thẩm quyền cá nhân tại tòa án của nước Việt Nam nếu có liên quan tới bất kỳ tranh chấp nào, bao gồm bất kỳ khiếu nại liên quan đến mHealth hoặc nhân viên, ban giám đốc, nhà thầu, các nhà cung cấp dịch vụ viễn thông và các nhà cung cấp nội dung của chúng tôi.Các Điều khoản và điều kiện này được chi phối bởi pháp luật nước Việt Nam mà không quan tâm đến những xung đột điều luật của pháp luật nước này. Nếu bất kỳ tòa án có thẩm quyền xét xử cho rằng điều khoản của Điều khoản và Điều kiện không hợp lệ, việc vô hiệu của điều khoản đó sẽ không ảnh hưởng đến hiệu lực của các điều khoản còn lại của các Điều khoản và Điều kiện và các điều khoản còn lại này sẽ tiếp tục có hiệu lực thi hành. Không từ bỏ bất kỳ các điều khoản và điều kiện này được coi là từ bỏ điều khoản hoặc điều kiện đó hay bất kỳ điều khoản hay điều kiện khác.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Bạn đồng tình rằng thẩm quyền phân xử bất kỳ tranh chấp hay bất cứ vấn đề nào với mHealth hoặc Trang là của tòa án nước Việt Nam. Bạn cũng đồng tình và bằng lòng thực thi thẩm quyền cá nhân tại tòa án của nước Việt Nam nếu có liên quan tới bất kỳ tranh chấp nào, bao gồm bất kỳ khiếu nại liên quan đến mHealth hoặc nhân viên, ban giám đốc, nhà thầu, các nhà cung cấp dịch vụ viễn thông và các nhà cung cấp nội dung của chúng tôi.Các Điều khoản và điều kiện này được chi phối bởi pháp luật nước Việt Nam mà không quan tâm đến những xung đột điều luật của pháp luật nước này. Nếu bất kỳ tòa án có thẩm quyền xét xử cho rằng điều khoản của Điều khoản và Điều kiện không hợp lệ, việc vô hiệu của điều khoản đó sẽ không ảnh hưởng đến hiệu lực của các điều khoản còn lại của các Điều khoản và Điều kiện và các điều khoản còn lại này sẽ tiếp tục có hiệu lực thi hành. Không từ bỏ bất kỳ các điều khoản và điều kiện này được coi là từ bỏ điều khoản hoặc điều kiện đó hay bất kỳ điều khoản hay điều kiện khác.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "c3d6bdf3-5f33-46f4-ae39-4cfc47dafef5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Thông báo và quy trình gỡ bỏ nội dung trên Trang của mHealth và những vấn đề liên quan đến bản quyền.",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Thông báo và quy trình gỡ bỏ nội dung trên Trang của mHealth và những vấn đề liên quan đến bản quyền.",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "62a09d8b-1001-4f1f-9a6f-3bbccadf842a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Nếu bạn cho rằng bất kỳ tài liệu mà bạn truy cập vào hay tài liệu từ Trang vi phạm bản quyền của mình, bạn có thể yêu cầu gỡ bỏ hay truy cập để xem xét kĩ càng hơn những nội dung từ Trang bằng cách liên hệ với mHealth (chi tiết liên lạc sẽ được nói rõ ở phần dưới) và cung cấp các thông tin sau:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Nếu bạn cho rằng bất kỳ tài liệu mà bạn truy cập vào hay tài liệu từ Trang vi phạm bản quyền của mình, bạn có thể yêu cầu gỡ bỏ hay truy cập để xem xét kĩ càng hơn những nội dung từ Trang bằng cách liên hệ với mHealth (chi tiết liên lạc sẽ được nói rõ ở phần dưới) và cung cấp các thông tin sau:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "c8ff46ee-ce9c-4337-b0f8-b4098f969479",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Xác định nội dung đã được đang kí mà bị vi phạm bản quyền theo quan điểm của bạn. Vui lòng mô tả nội dung và nếu có thể thì cung cấp thêm một bản sao hoặc nguồn (ví dụ, URL) bản quyền nội dung.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Xác định nội dung đã được đang kí mà bị vi phạm bản quyền theo quan điểm của bạn. Vui lòng mô tả nội dung và nếu có thể thì cung cấp thêm một bản sao hoặc nguồn (ví dụ, URL) bản quyền nội dung.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "40bf1d0f-13a3-44d3-8beb-9891cacfcd95",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Xác định tài liệu vi phạm bản quyền theo quan điểm của bạn và vị trí của nó. Vui lòng mô tả tài liệu và cung cấp cho chúng tôi URL hay bất kỳ thông tin cần thiết khác để xác định vị trí của tài liệu.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Xác định tài liệu vi phạm bản quyền theo quan điểm của bạn và vị trí của nó. Vui lòng mô tả tài liệu và cung cấp cho chúng tôi URL hay bất kỳ thông tin cần thiết khác để xác định vị trí của tài liệu.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "e0a9de6c-1f27-4aee-be32-8dd94087e4c9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Tên, địa chỉ, số điện thoại và địa chỉ email của bạn nếu có.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Tên, địa chỉ, số điện thoại và địa chỉ email của bạn nếu có.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "de89f1ab-e3a7-45c1-ad6a-48b907f927eb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Lời tuyên bố rằng bạn tin chắc việc sử dụng các tài liệu bị khiếu nại này chưa được phép của chủ sở hữu bản quyền, đại lý hoặc pháp luật.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Lời tuyên bố rằng bạn tin chắc việc sử dụng các tài liệu bị khiếu nại này chưa được phép của chủ sở hữu bản quyền, đại lý hoặc pháp luật.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "66e2bc94-81f8-4ace-aab7-2952a5b49b21",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Lời tuyên bố rằng thông tin bạn cung cấp là chính xác và chỉ ra rằng “nhận thức được hình phạt về tội khai man”, bạn chính là chủ sở hữu bản quyền hoặc được ủy quyền để thay mặt chủ sở hữu bản quyền để thực hiện khiếu nại này.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Lời tuyên bố rằng thông tin bạn cung cấp là chính xác và chỉ ra rằng “nhận thức được hình phạt về tội khai man”, bạn chính là chủ sở hữu bản quyền hoặc được ủy quyền để thay mặt chủ sở hữu bản quyền để thực hiện khiếu nại này.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "0bd8cfa8-69be-4272-a0ec-7282e52c8d41",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "numbered_list_item",
+    "numbered_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Một chữ ký hoặc dấu hiệu điện tử có giá trị tương đương chữ ký từ người giữ bản quyền hoặc người đại diện theo uỷ quyền.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Một chữ ký hoặc dấu hiệu điện tử có giá trị tương đương chữ ký từ người giữ bản quyền hoặc người đại diện theo uỷ quyền.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "945f3825-049a-46b0-983a-d20a5f68fc79",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Đơn vị quản lý các vấn đề bản quyền của Trang của mHealth có địa chỉ:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Đơn vị quản lý các vấn đề bản quyền của Trang của mHealth có địa chỉ:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "5818a3de-a480-4579-8e06-0871d5a79cbe",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Công ty cổ phần Công nghệ mHealth",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Công ty cổ phần Công nghệ mHealth",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "db7a36fd-8e06-4d2f-a57b-db8847b92b84",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "LA 02.08 tòa nhà Lexington, 67 Mai Chí Thọ, phường An Phú, quận 2, tp.HCM",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "LA 02.08 tòa nhà Lexington, 67 Mai Chí Thọ, phường An Phú, quận 2, tp.HCM",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "18d7f321-f70b-4732-9d12-fce9d8cc7df8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Tel: +84 8 36226822",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Tel: +84 8 36226822",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "4953323e-45d5-45f9-81d0-9915663ea11e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Nhằm bảo vệ quyền của chủ sở hữu bản quyền, xét theo từng trường hợp, mHealth duy trì thực hiện chính sách chấm dứt các đăng ký và tài khoản của Trang khi đăng ký và tài khoản ấy vi phạm nhiều lần.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Nhằm bảo vệ quyền của chủ sở hữu bản quyền, xét theo từng trường hợp, mHealth duy trì thực hiện chính sách chấm dứt các đăng ký và tài khoản của Trang khi đăng ký và tài khoản ấy vi phạm nhiều lần.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "c880f362-73b0-44ae-bd63-ea78829780f5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Chấm dứt",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Chấm dứt",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "a4b3c63d-51f7-4e02-b1b7-058c9746e3e0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Bạn có thể cho ngưng hoạt động tài khoản của bạn và kết thúc đăng ký bất cứ lúc nào, vì bất cứ lý do gì bằng cách gửi email đến cskh@wellcare.vn. mHealth có thể đình chỉ hoặc chấm dứt việc sử dụng Trang của bạn, tài khoản của bạn và / hoặc đăng ký Dịch vụ của bạn vì bất kỳ lý do gì và bất cứ lúc nào. Sau khi chấm dứt tài khoản, mHealth giữ quyền quyết định duy trì, xóa hoặc hủy bỏ tất cả các tài liệu được đăng hoặc tải lên Trang căn cứ theo các chính sách lưu giữ hồ sơ nội bộ. Sau khi chấm dứt như vậy, mHealth sẽ không còn nghĩa vụ cung cấp các Dịch vụ.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Bạn có thể cho ngưng hoạt động tài khoản của bạn và kết thúc đăng ký bất cứ lúc nào, vì bất cứ lý do gì bằng cách gửi email đến cskh@wellcare.vn. mHealth có thể đình chỉ hoặc chấm dứt việc sử dụng Trang của bạn, tài khoản của bạn và / hoặc đăng ký Dịch vụ của bạn vì bất kỳ lý do gì và bất cứ lúc nào. Sau khi chấm dứt tài khoản, mHealth giữ quyền quyết định duy trì, xóa hoặc hủy bỏ tất cả các tài liệu được đăng hoặc tải lên Trang căn cứ theo các chính sách lưu giữ hồ sơ nội bộ. Sau khi chấm dứt như vậy, mHealth sẽ không còn nghĩa vụ cung cấp các Dịch vụ.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "a5b90d7c-e53a-4b60-9230-480d426d6c75",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Quyền sửa đổi.",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Quyền sửa đổi.",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "8858f547-a840-489c-81bd-c20ff9723636",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Chúng tôi bảo lưu quyền thay đổi, thêm hoặc bỏ các điều khoản sử dụng tại bất kỳ thời điểm nào. Việc tiếp tục sử dụng Trang và / hoặc Dịch vụ diễn ra sau thông báo về các thay đổi bất kỳ, có nghĩa là bạn thừa nhận các thay đổi đó và đồng ý với các điều khoản sử dụng đã được sửa đổi, bao gồm các kết quả sau thay đổi đó.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Chúng tôi bảo lưu quyền thay đổi, thêm hoặc bỏ các điều khoản sử dụng tại bất kỳ thời điểm nào. Việc tiếp tục sử dụng Trang và / hoặc Dịch vụ diễn ra sau thông báo về các thay đổi bất kỳ, có nghĩa là bạn thừa nhận các thay đổi đó và đồng ý với các điều khoản sử dụng đã được sửa đổi, bao gồm các kết quả sau thay đổi đó.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "dcec4970-bdd3-452c-a2cd-c3fa08c9f96a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Từ chối trách nhiệm, miễn trừ các bảo đảm và giới hạn trách nhiệm pháp lý",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Từ chối trách nhiệm, miễn trừ các bảo đảm và giới hạn trách nhiệm pháp lý",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "8d0ea8de-5c11-43d5-b444-f4010e12bbdb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Các đường truyền: Bạn thừa nhận rằng quyền truy cập vào các Dịch vụ sẽ được cung cấp thông qua nhiều phương tiện và hệ thống thông tin liên lạc khác nhau, thông tin sẽ được truyền qua đường dây trao đổi cục bộ và các đường truyền Internet thông qua các bộ định tuyến, chuyển mạch và các thiết bị khác (gọi chung là “Các đường truyền”) thuộc sở hữu, khai thác bởi bên thứ ba là các nhà cung cấp dịch vụ Internet, dịch vụ truyền tải hay cung cấp các tiện ích, và tất cả những điều này đều ngoài tầm kiểm soát của Chúng tôi. Chúng tôi không chịu trách nhiệm cho, hoặc liên quan đến, tính toàn vẹn, sự riêng tư, tính bảo mật, hoặc việc sử dụng bất kỳ thông tin nào được truyền tải qua Các đường truyền, hoặc bất kỳ sự chậm trễ, thất bại, sự gián đoạn, bị ngăn chặn, bị thất thoát hoặc hư hỏng của bất kỳ dữ liệu hay thông tin khác có liên quan đến việc truyền tải trên Các đường truyền. Bạn hoàn toàn chịu mọi rủi ro liên quan đến việc sử dụng Các đường truyền; đồng thời, việc sử dụng này phải tuân theo tất cả các quy định pháp luật phù hợp của quốc gia và quốc tế.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Các đường truyền: Bạn thừa nhận rằng quyền truy cập vào các Dịch vụ sẽ được cung cấp thông qua nhiều phương tiện và hệ thống thông tin liên lạc khác nhau, thông tin sẽ được truyền qua đường dây trao đổi cục bộ và các đường truyền Internet thông qua các bộ định tuyến, chuyển mạch và các thiết bị khác (gọi chung là “Các đường truyền”) thuộc sở hữu, khai thác bởi bên thứ ba là các nhà cung cấp dịch vụ Internet, dịch vụ truyền tải hay cung cấp các tiện ích, và tất cả những điều này đều ngoài tầm kiểm soát của Chúng tôi. Chúng tôi không chịu trách nhiệm cho, hoặc liên quan đến, tính toàn vẹn, sự riêng tư, tính bảo mật, hoặc việc sử dụng bất kỳ thông tin nào được truyền tải qua Các đường truyền, hoặc bất kỳ sự chậm trễ, thất bại, sự gián đoạn, bị ngăn chặn, bị thất thoát hoặc hư hỏng của bất kỳ dữ liệu hay thông tin khác có liên quan đến việc truyền tải trên Các đường truyền. Bạn hoàn toàn chịu mọi rủi ro liên quan đến việc sử dụng Các đường truyền; đồng thời, việc sử dụng này phải tuân theo tất cả các quy định pháp luật phù hợp của quốc gia và quốc tế.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "4b1d54df-2c36-469c-a210-835c1fa2ae65",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Những người dùng khác: Bạn thừa nhận rằng những người dùng khác có quyền truy cập vào và sử dụng Dịch vụ của Chúng tôi và hoạt động của họ ngoài tầm kiểm soát của Chúng tôi. Do đó, Chúng tôi không chịu bất kỳ trách nhiệm pháp lý nào đối với hoặc liên quan đến bất kỳ thiệt hại về sự riêng tư, an ninh, bảo mật, tính toàn vẹn, tính sẵn có, hoặc việc sử dụng hạn chế các thông tin thuộc Dịch vụ khi những điều này là do hành động hoặc sự vi phạm của những người dùng này gây ra.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Những người dùng khác: Bạn thừa nhận rằng những người dùng khác có quyền truy cập vào và sử dụng Dịch vụ của Chúng tôi và hoạt động của họ ngoài tầm kiểm soát của Chúng tôi. Do đó, Chúng tôi không chịu bất kỳ trách nhiệm pháp lý nào đối với hoặc liên quan đến bất kỳ thiệt hại về sự riêng tư, an ninh, bảo mật, tính toàn vẹn, tính sẵn có, hoặc việc sử dụng hạn chế các thông tin thuộc Dịch vụ khi những điều này là do hành động hoặc sự vi phạm của những người dùng này gây ra.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "02ea0aa0-0092-4bd2-9e43-f91a0758b8fe",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Truy cập trái phép; dữ liệu bị mất hoặc hỏng: Chúng tôi không chịu trách nhiệm cho việc những người sử dụng dịch vụ truy cập trái phép vào dữ liệu, trang thiết bị của bạn hoặc chịu trách nhiệm cho việc truy cập trái phép, thay đổi, trộm cắp, làm hỏng, làm mất hoặc phá hủy các tập tin dữ liệu, chương trình, phương pháp, hoặc các thông tin thông qua các dịch vụ, dù là do tai nạn, thủ đoạn lừa đảo, phá hoại hoặc do các thiết bị, hoặc bất kỳ cách thức nào khác. Bạn hoàn toàn chịu trách nhiệm trong việc xác định tính chính xác của tất cả các thông tin và báo cáo, và chịu trách nhiệm trong việc bảo vệ các dữ liệu, chương trình của mình khỏi bị mất bằng cách thực hiện các biện pháp bảo mật thích hợp. Bạn, theo đây, từ bỏ quyền yêu cầu bồi thường đối với các thiệt hại gây ra bởi dữ liệu bị mất hoặc hỏng, báo cáo hoặc dữ liệu không chính xác, do lỗi lập trình, lỗi điều hành, lỗi phần mềm, thiết bị, vi phạm an ninh, hoặc sử dụng các phần mềm của bên thứ ba. Chúng tôi không chịu trách nhiệm về nội dung của bất kỳ thông tin nào được truyền đi hoặc được nhận thông qua việc cung cấp Dịch vụ của Chúng tôi.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Truy cập trái phép; dữ liệu bị mất hoặc hỏng: Chúng tôi không chịu trách nhiệm cho việc những người sử dụng dịch vụ truy cập trái phép vào dữ liệu, trang thiết bị của bạn hoặc chịu trách nhiệm cho việc truy cập trái phép, thay đổi, trộm cắp, làm hỏng, làm mất hoặc phá hủy các tập tin dữ liệu, chương trình, phương pháp, hoặc các thông tin thông qua các dịch vụ, dù là do tai nạn, thủ đoạn lừa đảo, phá hoại hoặc do các thiết bị, hoặc bất kỳ cách thức nào khác. Bạn hoàn toàn chịu trách nhiệm trong việc xác định tính chính xác của tất cả các thông tin và báo cáo, và chịu trách nhiệm trong việc bảo vệ các dữ liệu, chương trình của mình khỏi bị mất bằng cách thực hiện các biện pháp bảo mật thích hợp. Bạn, theo đây, từ bỏ quyền yêu cầu bồi thường đối với các thiệt hại gây ra bởi dữ liệu bị mất hoặc hỏng, báo cáo hoặc dữ liệu không chính xác, do lỗi lập trình, lỗi điều hành, lỗi phần mềm, thiết bị, vi phạm an ninh, hoặc sử dụng các phần mềm của bên thứ ba. Chúng tôi không chịu trách nhiệm về nội dung của bất kỳ thông tin nào được truyền đi hoặc được nhận thông qua việc cung cấp Dịch vụ của Chúng tôi.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "58adeb79-71ca-43d3-9e3a-0f036495cf1d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Giới hạn về trách nhiệm pháp lý. Dù cho có bất cứ điều khoản nào quy định điều ngược lại, tổng mức trách nhiệm của Chúng tôi theo Thỏa thuận này sẽ không vượt quá tổng chi phí mà bạn đã trả cho Chúng tôi trong một (1) tháng ngay trước khi phát sinh yêu cầu bồi thường này.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Giới hạn về trách nhiệm pháp lý. Dù cho có bất cứ điều khoản nào quy định điều ngược lại, tổng mức trách nhiệm của Chúng tôi theo Thỏa thuận này sẽ không vượt quá tổng chi phí mà bạn đã trả cho Chúng tôi trong một (1) tháng ngay trước khi phát sinh yêu cầu bồi thường này.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c3f82dc-6c9e-431f-a841-d60ed8a03a0c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Không bảo đảm: Việc truy cập vào các Dịch vụ và các thông tin chứa trong đó được cung cấp “nguyên trạng” và “như sẵn có” mà không có sự bảo đảm dưới bất cứ hình thức nào. Bạn hoàn toàn chịu trách nhiệm cho bất kỳ và tất cả các hành vi hay thiếu sót nào đã thực hiện dựa vào các dịch vụ hoặc thông tin trong các dịch vụ, bao gồm cả thông tin không chính xác hoặc không đầy đủ. Điều này được đồng ý một cách rõ ràng rằng không có trường hợp nào Chúng tôi sẽ phải chịu trách nhiệm cho bất kỳ thiệt hại đặc biệt, gián tiếp, ngẫu nhiên, bao gồm nhưng không giới hạn bởi các hệ quả về sức khỏe hoặc mất mát thông tin hoặc dữ liệu ngay cả khi chúng tôi đã được thông báo về khả năng của các thiệt hại như vậy. Chúng tôi từ chối bất kỳ và tất cả trách nhiệm pháp lý đối với việc truyền dữ liệu không đúng và dịch vụ bị ngắt do sự cố, hỏng hóc của các nhà cung cấp dịch vụ viễn thông hoặc của các dịch vụ.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Không bảo đảm: Việc truy cập vào các Dịch vụ và các thông tin chứa trong đó được cung cấp “nguyên trạng” và “như sẵn có” mà không có sự bảo đảm dưới bất cứ hình thức nào. Bạn hoàn toàn chịu trách nhiệm cho bất kỳ và tất cả các hành vi hay thiếu sót nào đã thực hiện dựa vào các dịch vụ hoặc thông tin trong các dịch vụ, bao gồm cả thông tin không chính xác hoặc không đầy đủ. Điều này được đồng ý một cách rõ ràng rằng không có trường hợp nào Chúng tôi sẽ phải chịu trách nhiệm cho bất kỳ thiệt hại đặc biệt, gián tiếp, ngẫu nhiên, bao gồm nhưng không giới hạn bởi các hệ quả về sức khỏe hoặc mất mát thông tin hoặc dữ liệu ngay cả khi chúng tôi đã được thông báo về khả năng của các thiệt hại như vậy. Chúng tôi từ chối bất kỳ và tất cả trách nhiệm pháp lý đối với việc truyền dữ liệu không đúng và dịch vụ bị ngắt do sự cố, hỏng hóc của các nhà cung cấp dịch vụ viễn thông hoặc của các dịch vụ.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "4b63dfc2-be66-44da-8520-81d624a385b7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Bạn thừa nhận và đồng ý rằng mHealth không phải là cơ sở y tế, không có chức năng khám chữa bệnh, chẩn đoán, điều trị bệnh, không trực tiếp cung cấp dịch vụ tư vấn, chăm sóc sức khỏe từ xa, mà chỉ là một nền tảng công nghệ và cơ sở hạ tầng để bệnh nhân kết nối với các Bác sĩ cho mục đích tư vấn sức khỏe từ xa.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Bạn thừa nhận và đồng ý rằng mHealth không phải là cơ sở y tế, không có chức năng khám chữa bệnh, chẩn đoán, điều trị bệnh, không trực tiếp cung cấp dịch vụ tư vấn, chăm sóc sức khỏe từ xa, mà chỉ là một nền tảng công nghệ và cơ sở hạ tầng để bệnh nhân kết nối với các Bác sĩ cho mục đích tư vấn sức khỏe từ xa.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "71e51658-3df2-488b-a1dd-f43b9114dbcd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Bạn hiểu rằng theo phạm vi được cho phép, theo luật pháp được áp dụng, trong mọi trường hợp, mHealth hoặc cán bộ, nhân viên, giám đốc, công ty mẹ, công ty con, các chi nhánh, nhân viên đại diện hoặc người cấp giấy phép sẽ không phải chịu trách nhiệm cho bất kỳ thiệt hại gián tiếp hay ngẫu nhiên, đặc biệt tổn thất sau tai nạn hoặc tiền phạt bồi thường, bao gồm nhưng không giới hạn, những thiệt hại về doanh thu, lợi nhuận, sự tính nhiệm, lợi ích, thiệt hại dữ liệu hay các thiệt hại vô hình khác phát sinh từ hoặc liên quan đến việc bạn sử dụng Trang hoặc các Dịch vụ, bất kể những thiệt hại này được dựa trên hợp đồng, sai lầm cá nhân (bao gồm sơ suất và trách nhiệm nghiêm ngặt), sự bảo đảm, quy chế hoặc về các phương diện khác. Trong phạm vi mà chúng tôi được phép, như một quy định của pháp luật hiện hành, chúng tôi từ chối bảo đảm,  hoặc tiết chế trách nhiệm pháp lý của mình, hoặc phạm vi và thời hạn bảo đảm và mức độ trách nhiệm của chúng tôi sẽ là ở mức tối thiểu cho phép theo luật áp dụng.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Bạn hiểu rằng theo phạm vi được cho phép, theo luật pháp được áp dụng, trong mọi trường hợp, mHealth hoặc cán bộ, nhân viên, giám đốc, công ty mẹ, công ty con, các chi nhánh, nhân viên đại diện hoặc người cấp giấy phép sẽ không phải chịu trách nhiệm cho bất kỳ thiệt hại gián tiếp hay ngẫu nhiên, đặc biệt tổn thất sau tai nạn hoặc tiền phạt bồi thường, bao gồm nhưng không giới hạn, những thiệt hại về doanh thu, lợi nhuận, sự tính nhiệm, lợi ích, thiệt hại dữ liệu hay các thiệt hại vô hình khác phát sinh từ hoặc liên quan đến việc bạn sử dụng Trang hoặc các Dịch vụ, bất kể những thiệt hại này được dựa trên hợp đồng, sai lầm cá nhân (bao gồm sơ suất và trách nhiệm nghiêm ngặt), sự bảo đảm, quy chế hoặc về các phương diện khác. Trong phạm vi mà chúng tôi được phép, như một quy định của pháp luật hiện hành, chúng tôi từ chối bảo đảm,  hoặc tiết chế trách nhiệm pháp lý của mình, hoặc phạm vi và thời hạn bảo đảm và mức độ trách nhiệm của chúng tôi sẽ là ở mức tối thiểu cho phép theo luật áp dụng.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "b006d86d-e289-4379-a6d9-ec79c859b9a1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Công bố thông tin.",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Công bố thông tin.",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2bd8a849-ec71-4db1-a866-fd4a207ec15b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Tất cả các Bác sĩ  trên Trang sở hữu chứng chỉ hành nghề được cấp bởi Bộ Y Tế hoặc Sở Y tế nơi họ làm việc.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Tất cả các Bác sĩ  trên Trang sở hữu chứng chỉ hành nghề được cấp bởi Bộ Y Tế hoặc Sở Y tế nơi họ làm việc.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "d15ac58e-f24f-4418-9b17-778ab8c6ca51",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Bất kỳ hồ sơ bệnh án được lập do sử dụng Trang sẽ được duy trì một cách an toàn bởi mHealth trong một thời gian không ít hơn số năm tối thiểu hồ sơ đó phải được duy trì theo pháp luật Việt Nam.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Bất kỳ hồ sơ bệnh án được lập do sử dụng Trang sẽ được duy trì một cách an toàn bởi mHealth trong một thời gian không ít hơn số năm tối thiểu hồ sơ đó phải được duy trì theo pháp luật Việt Nam.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "b20664cf-5f83-4171-9891-ee1cf7cc3e3f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Điều khoản khác",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Điều khoản khác",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "ff55c00e-cead-4f10-9306-2ad7ecca30ca",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Cách hiểu của thỏa thuận này và việc giải quyết các tranh chấp phát sinh theo Thoả thuận này sẽ được quy định bởi pháp luật Việt Nam.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Cách hiểu của thỏa thuận này và việc giải quyết các tranh chấp phát sinh theo Thoả thuận này sẽ được quy định bởi pháp luật Việt Nam.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "fa6e09a5-ce3e-4d35-b250-647f23684fa3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Không bên nào của Thỏa thuận này sẽ được coi là vi phạm Thỏa thuận nếu việc thực hiện bất kỳ nghĩa vụ nào theo Thoả thuận bị ngăn cản vì lý do: (a) thời tiết khắc nghiệt, bão; (b) động đất hay các biến cố thiên nhiên khác; (c) đình công hoặc tình trạng bất ổn lao động khác; (d) mất điện; (e) các trường hợp khẩn cấp dân sự hoặc quân sự; (f) các quyết định, yêu cầu của các cơ quan Nhà nước có thẩm quyền; hoặc (g) bất kỳ trường hợp nào khác nằm ngoài khả năng kiểm soát của một hoặc/và các bên.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Không bên nào của Thỏa thuận này sẽ được coi là vi phạm Thỏa thuận nếu việc thực hiện bất kỳ nghĩa vụ nào theo Thoả thuận bị ngăn cản vì lý do: (a) thời tiết khắc nghiệt, bão; (b) động đất hay các biến cố thiên nhiên khác; (c) đình công hoặc tình trạng bất ổn lao động khác; (d) mất điện; (e) các trường hợp khẩn cấp dân sự hoặc quân sự; (f) các quyết định, yêu cầu của các cơ quan Nhà nước có thẩm quyền; hoặc (g) bất kỳ trường hợp nào khác nằm ngoài khả năng kiểm soát của một hoặc/và các bên.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "b5d55b03-d995-4c4b-b3b7-cdea1c3594b1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Bạn hiểu rằng bằng cách đánh dấu vào ô “Đồng ý” với các Điều khoản Sử dụng và / hoặc bất kỳ biểu mẫu khác được trình bày cho bạn trên Trang, bạn đồng ý với các điều khoản sử dụng này và rằng hành động đó sẽ là một chữ ký hợp pháp.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Bạn hiểu rằng bằng cách đánh dấu vào ô “Đồng ý” với các Điều khoản Sử dụng và / hoặc bất kỳ biểu mẫu khác được trình bày cho bạn trên Trang, bạn đồng ý với các điều khoản sử dụng này và rằng hành động đó sẽ là một chữ ký hợp pháp.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "cbb0d6d8-af7f-4e97-9b7f-ecedbe20c009",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "– Bạn đồng ý rằng chúng tôi có thể gửi cho bạn về bất kỳ quyền riêng tư hoặc các thông báo, thông tin công bố hoặc thông tin liên quan đến các Dịch vụ (gọi chung là “Thông tin”) thông qua phương tiện điện tử bao gồm nhưng không giới hạn chỉ: (1) bằng e-mail, sử dụng địa chỉ email mà bạn cung cấp cho chúng tôi trong quá trình đăng ký, (2) Thông báo trên ứng dụng di động, tin nhắn SMS hoặc (3) bằng cách đăng thông tin trên Trang. Việc gửi bất cứ thông tin nào từ chúng tôi có hiệu lực khi nó được gửi bởi chúng tôi, bất kể liệu bạn có đọc thông tin khi bạn nhận được nó hay không, hoặc liệu bạn bạn thực sự nhận được nó hay không. Bạn có thể rút sự đồng ý nhận thông tin của bạn qua email bằng cách hủy bỏ hoặc chấm dứt sử dụng Dịch vụ.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "– Bạn đồng ý rằng chúng tôi có thể gửi cho bạn về bất kỳ quyền riêng tư hoặc các thông báo, thông tin công bố hoặc thông tin liên quan đến các Dịch vụ (gọi chung là “Thông tin”) thông qua phương tiện điện tử bao gồm nhưng không giới hạn chỉ: (1) bằng e-mail, sử dụng địa chỉ email mà bạn cung cấp cho chúng tôi trong quá trình đăng ký, (2) Thông báo trên ứng dụng di động, tin nhắn SMS hoặc (3) bằng cách đăng thông tin trên Trang. Việc gửi bất cứ thông tin nào từ chúng tôi có hiệu lực khi nó được gửi bởi chúng tôi, bất kể liệu bạn có đọc thông tin khi bạn nhận được nó hay không, hoặc liệu bạn bạn thực sự nhận được nó hay không. Bạn có thể rút sự đồng ý nhận thông tin của bạn qua email bằng cách hủy bỏ hoặc chấm dứt sử dụng Dịch vụ.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "e3897c31-72a5-48b7-9640-5c9ca6fd3340",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Bất cứ điều khoản nào của Thỏa thuận này bị chứng minh là không hợp lệ, không có hiệu lực, hoặc không hợp pháp sẽ không làm ảnh hưởng, làm giảm hoặc làm mất hiệu lực của các điều khoản khác tại Thỏa thuận này và các điều khoản khác đó sẽ vẫn có đầy đủ hiệu lực.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Bất cứ điều khoản nào của Thỏa thuận này bị chứng minh là không hợp lệ, không có hiệu lực, hoặc không hợp pháp sẽ không làm ảnh hưởng, làm giảm hoặc làm mất hiệu lực của các điều khoản khác tại Thỏa thuận này và các điều khoản khác đó sẽ vẫn có đầy đủ hiệu lực.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2b6cac46-0558-404e-89b3-a1b364321c8b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Thỏa thuận chung",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Thỏa thuận chung",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "e03948e5-8209-4769-8c38-8e75ec6e1536",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Trừ khi được quy định trong một thông báo hợp pháp cụ thể trên Trang của mHealth, các Điều khoản và điều kiện và Chính sách bảo mật của mHealth chính là những nhân tố cấu thành toàn bộ thỏa thuận cho việc sử dụng Trang và nội dung Trang của mHealth,  giữa bạn và mHealth.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Trừ khi được quy định trong một thông báo hợp pháp cụ thể trên Trang của mHealth, các Điều khoản và điều kiện và Chính sách bảo mật của mHealth chính là những nhân tố cấu thành toàn bộ thỏa thuận cho việc sử dụng Trang và nội dung Trang của mHealth,  giữa bạn và mHealth.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "c628cc6b-e7ad-4bdd-938b-0e888c47da57",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:33:00.000Z",
+    "last_edited_time": "2024-03-18T08:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "e624dac5-f32b-4903-84ea-6eef6295015d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "5364e926-6816-40e1-8e30-81f60d4c33fc"
+    },
+    "created_time": "2024-03-18T08:29:00.000Z",
+    "last_edited_time": "2024-03-18T08:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "94a0c492-d3ef-4f3d-b4c5-bebe2e813aa1"
+    },
+    "has_children": false,
+    "archived": false,
+    "type": "quote",
+    "quote": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cảm ơn sự hợp tác của bạn. Chúng tôi hy vọng bạn tìm thấy được những thông tin hữu ích và sử dụng Trang của mHealth một cách thuận tiện. Nếu bạn có bất cứ câu hỏi hoặc nhận xét nào về Trang, bao gồm bất cứ thông báo về các liên kết không hoạt động, hãy gửi thông tin đến chúng tôi bằng cách email tới: Bộ phận Chăm sóc khách hàng: cskh@wellcare.vn",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cảm ơn sự hợp tác của bạn. Chúng tôi hy vọng bạn tìm thấy được những thông tin hữu ích và sử dụng Trang của mHealth một cách thuận tiện. Nếu bạn có bất cứ câu hỏi hoặc nhận xét nào về Trang, bao gồm bất cứ thông báo về các liên kết không hoạt động, hãy gửi thông tin đến chúng tôi bằng cách email tới: Bộ phận Chăm sóc khách hàng: cskh@wellcare.vn",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  }
+]
